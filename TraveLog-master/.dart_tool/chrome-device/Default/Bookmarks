@@ -1,0 +1,130 @@
+{
+   "checksum": "ebc1348d1401cca247f23b8c7be5727a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13335899852852237",
+            "date_last_used": "0",
+            "guid": "5f03c2b4-c84b-45f0-b826-d8b3b937156a",
+            "id": "21",
+            "name": "NodeJs: Beginner Practical Guide - E-Commerce Web API [2023] | Udemy",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.udemy.com/course/draft/3757758/learn/lecture/24251284?start=15#overview"
+         }, {
+            "date_added": "13337508184830272",
+            "date_last_used": "0",
+            "guid": "0a1891c2-d1ee-46d4-97df-31a8afee841e",
+            "id": "22",
+            "name": "Spring Initializr",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://start.spring.io/"
+         }, {
+            "date_added": "13356452755677400",
+            "date_last_used": "0",
+            "guid": "73ccec0e-dc5e-4082-a9a6-b9e04be5b770",
+            "id": "10",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.booking.com/index.html?aid=1980379&label=NW21C2EF"
+         }, {
+            "date_added": "13356452755677247",
+            "date_last_used": "0",
+            "guid": "a979def3-4258-4798-95cb-dab740d3fd22",
+            "id": "9",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13356452755676765",
+            "date_last_used": "0",
+            "guid": "df41deda-b825-4a10-83a6-8a3b1779eb63",
+            "id": "8",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13356452755675206",
+            "date_last_used": "0",
+            "guid": "1332f334-ffc5-406a-b45f-c7ede0952063",
+            "id": "7",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge"
+         } ],
+         "date_added": "13356452755439453",
+         "date_last_used": "0",
+         "date_modified": "13356613849132443",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favourites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13341127029555277",
+            "date_last_used": "0",
+            "guid": "431baf67-f5a9-4293-be97-e0a7b4ff5f8d",
+            "id": "19",
+            "name": "Feed The Beast - FTB Presents AbePack",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://feed-the-beast.com/modpacks/114-ftb-presents-abepack?tab=mods"
+         }, {
+            "date_added": "13343842522592406",
+            "date_last_used": "0",
+            "guid": "219bf529-6daf-4c2b-9324-03ffdefa4199",
+            "id": "20",
+            "name": "GetPaying Clients - Pratham Waghmare",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.getpayingclients.in/register42295085?gclid=CjwKCAiA3aeqBhBzEiwAxFiOBh98NVhAhuTB0K8dNVwnI4CyeVLl1Fkuy62IGVlRrYnhC5Jq9pW_gxoCp44QAvD_BwE"
+         } ],
+         "date_added": "13356452755439456",
+         "date_last_used": "0",
+         "date_modified": "13343842522592406",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favourites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13258020508894204",
+            "date_last_used": "0",
+            "guid": "6e907c28-455c-46a2-a3d2-006527f5e406",
+            "id": "18",
+            "name": "Pokemon (2019) (Dub) at Gogoanime",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www2.gogoanime.sh/category/pokemon-2019-dub"
+         } ],
+         "date_added": "13356452755439457",
+         "date_last_used": "0",
+         "date_modified": "13258020508894204",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favourites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCEztd6OOAQAAEgAqGCtLRGQxdHZqZ2lqTXpoZ3lac3FnRVE9PUgDoAYMEqcBCBYSogEKHExLTkxzV2xtWFJtcFk1RnhPZHVJYWRyalJ4QT0SJDBhMTg5MWMyLWQxZWUtNDZkNC05N2RmLTMxYThhZmVlODQxZRgAIAIoAjDPh7fp6TE4uMvohqYxQIaHt+npMUocSU5XY0NLY0NvdkV6ZnZjZkZ6K1VGbGxncWswPVoeIhxQTkFnL0VEV2xEZ21XQ01yZTdwRitRWFV2QjA9ZamH7UASpwEIFRKiAQocanoxOHFiTVJNNGZyclNjU01ndTV6cEhEaE9JPRIkNWYwM2MyYjQtYzg0Yi00NWYwLWI4MjYtZDhiM2I5MzcxNTZhGAAgAigCMM6Ht+npMTiLy+iGpjFAhYe36ekxShxIZFJJNU5sakNaVDluTzdzbXN4aDNCL050ZzA9Wh4iHEhLL25ndExmenNZWGtYazNITkVMdTB5SlpIZz1lBKLWBxKnAQgTEqIBChxuY1ljVlZpVmxKVzlQR1JDV1k2aDgxbCs4S0k9EiQ0MzFiYWY2Ny1mNWE5LTQyOTMtYmU5Ny1lMGE3YjRmZjVmOGQYACAAKAAw3Z+3n80xOLaht5/NMUC2obefzTFKHDVTQkV5ZGRjallMZVdDYjZ1SVgyRzFCQmR2ND1aHiIca0FkMTM0U0J5M0haTWk0T1JpeXlPbVZ4UHZ3PWXwgO79EqcBCBQSogEKHGVmMmo4dVNZdWlGb2FLMkRIOWpYSnRXV28zaz0SJDIxOWJmNTI5LTZkYWYtNGMyYi05MzI0LTAzZmZkZWZhNDE5ORgAIAAoADDcn7efzTE4lKG3n80xQJSht5/NMUocVFR4cU1ZS0tkOFNzWG1oYldsbDlWQTkxNFdBPVoeIhx3NGgwRGZHd0VrbEZ4dktPZ2JaUWQxUUdLREE9ZdQFzXoSiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkNjY5YzBhMmItNTU3Ni01Y2Q1LWExZGYtYzkzZWYyYTFkMjkwGAAgACgAMNnqy6bqLzi/7sum6i9Av+7LpuovShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKnAQgSEqIBChxIMlRqTk11RlZCZHlBT2Y2ZC9udXRLc2l1YVk9EiQ2ZTkwN2MyOC00NTVjLTQ2YTItYTNkMi0wMDY1MjdmNWU0MDYYACAAKAAw3p+3n80xOPOht5/NMUDzobefzTFKHHZlY3BtVzJwVzhodDIwTVlPemkrOGxFdVU2TT1aHiIcRHVFb1hJRDlqZS9WdW13aGw0eCs5UHhES2pnPWUiD3wmEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGE3ZjE4Mzg3LTRmMDctNTliZS1iOTMxLThhNTU4MGE3NmMwMBgAIAAoADDZ6sum6i84oO7LpuovQKDuy6bqL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkN2I4NjNmZDQtNzc5Yi01NzFhLTkzZGEtMDViMTc3YzBmYTEyGAAgACgAMNnqy6bqLzid78um6i9Ane/LpuovShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADAAOAA=",
+   "version": 1
+}
